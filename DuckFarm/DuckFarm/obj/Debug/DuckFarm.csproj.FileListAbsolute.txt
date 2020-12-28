@@ -1,0 +1,12 @@
+D:\Корнеенков 203\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe.config
+D:\Корнеенков 203\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe
+D:\Корнеенков 203\DuckFarm\DuckFarm\bin\Debug\DuckFarm.pdb
+D:\Корнеенков 203\DuckFarm\DuckFarm\obj\Debug\DuckFarm.csprojResolveAssemblyReference.cache
+D:\Корнеенков 203\DuckFarm\DuckFarm\obj\Debug\DuckFarm.exe
+D:\Корнеенков 203\DuckFarm\DuckFarm\obj\Debug\DuckFarm.pdb
+E:\Радилов\Корнеенков 203\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe.config
+E:\Радилов\Корнеенков 203\DuckFarm\DuckFarm\obj\Debug\DuckFarm.exe
+E:\Радилов\Корнеенков 203\DuckFarm\DuckFarm\obj\Debug\DuckFarm.pdb
+C:\Users\star\Project\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe.config
+C:\Users\star\Project\DuckFarm\DuckFarm\obj\Debug\DuckFarm.exe
+C:\Users\star\Project\DuckFarm\DuckFarm\obj\Debug\DuckFarm.pdb
