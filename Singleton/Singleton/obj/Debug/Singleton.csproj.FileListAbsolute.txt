@@ -1,0 +1,11 @@
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\bin\Debug\DuckFarmLibrary.dll
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\bin\Debug\DuckFarmLibrary.pdb
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\star\Desktop\Радилов\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\star\Project\main\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\star\Project\main\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\star\Project\main\Singleton\Singleton\obj\Debug\Singleton.pdb

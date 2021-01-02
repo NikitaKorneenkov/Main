@@ -10,3 +10,9 @@ E:\Радилов\Корнеенков 203\DuckFarm\DuckFarm\obj\Debug\DuckFarm.
 C:\Users\star\Project\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe.config
 C:\Users\star\Project\DuckFarm\DuckFarm\obj\Debug\DuckFarm.exe
 C:\Users\star\Project\DuckFarm\DuckFarm\obj\Debug\DuckFarm.pdb
+C:\Users\star\Project\main\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe.config
+C:\Users\star\Project\main\DuckFarm\DuckFarm\obj\Debug\DuckFarm.exe
+C:\Users\star\Project\main\DuckFarm\DuckFarm\obj\Debug\DuckFarm.pdb
+C:\Users\star\Project\main\DuckFarm\DuckFarm\bin\Debug\DuckFarm.exe
+C:\Users\star\Project\main\DuckFarm\DuckFarm\bin\Debug\DuckFarm.pdb
+C:\Users\star\Project\main\DuckFarm\DuckFarm\obj\Debug\DuckFarm.csprojResolveAssemblyReference.cache
